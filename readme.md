@@ -9,7 +9,7 @@ This web application gets the city name from the user and and returns
 * Flask 
 * docker 
 
-the inspiration for this web application was taken from [this](https://www.youtube.com/watch?v=jQjjqEjZK58). There are some modifications and also finally the application is containerized. 
+the inspiration for this web application was taken from [this](https://www.youtube.com/watch?v=jQjjqEjZK58). There are some modifications and also finally the application is containerized in my own version.
 
 ## How to run
 #### step 1
